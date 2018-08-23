@@ -1,0 +1,15 @@
+Untuk ketentuan request, silahkan sertakan kode untuk issue yang dibahas dengan:
+
+[REQ] - Untuk yang mau merekomendasikan situs baru untuk di unblock.
+
+[BUG] - Untuk yang mau melaporkan adanya bug di salah satu situs. Wajib melampirkan detail tentang bug tersebut di deskripsi.
+
+Contoh request untuk situs baru: [REQ] example.com
+
+Contoh request untuk bug: [BUG] example.com
+- :deskripsi: Masih terblokir, gambar tidak muncul, dll.
+
+Pastikan website yang akan direquest belum tersedia di list SITES.md:
+https://github.com/gvoze32/unblockhostid/blob/master/SITES.md (Gunakan CTRL+F untuk mencari)
+
+Bagi yang request tidak sesuai ketentuan, tidak akan saya kerjakan, terima kasih.
